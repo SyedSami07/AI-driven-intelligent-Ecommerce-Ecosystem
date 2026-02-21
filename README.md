@@ -56,7 +56,8 @@ pip install tensorflow numpy pillow flask
 ```
 
 4. **Run AI Servers:**
-Machine Learning Cyberbully Server:
+
+-Machine Learning Cyberbully Server:
 ```
 python classifier_api.py
 ```
@@ -65,6 +66,7 @@ python classifier_api.py
 ```
 python classifier_api.py
 ```
+
 
 
 
