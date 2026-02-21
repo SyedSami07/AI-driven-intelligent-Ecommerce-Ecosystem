@@ -1,6 +1,8 @@
 # 🍎 FRUID: AI-driven Intelligent E-commerce Ecosystem
 
 FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Deep Learning. It combines a typical shopping experience with Artificial Intelligence, Image Classification, Cyberbullying Detection, and Real-time Logistics.
+it’s not just a regular shop. I have turned the shops into smart spaces using AI
+automation. This makes managing the store easier and makes shopping better for everyone
 
 ## Features
 
@@ -59,3 +61,4 @@ Ensure ai_bridge.php works by starting your Python API server.
 This project is open-source and available under the MIT License.
 
 If you want, I can also rewrite the **Features** section with fully descriptive, professional English phrases instead of literal translations to make it look more polished for GitHub. Do you want me to do that?
+
