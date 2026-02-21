@@ -57,9 +57,12 @@ Update database credentials in includes/config.php (if exists).
 composer install
 pip install tensorflow numpy pillow flask
 
-4. Run AI Server:
+4. Run AI Servers:
+Machine Learning Cyberbully server:
+python classifier_api.py   
 
-Ensure ai_bridge.php works by starting your Python API server.
+Deep Learning Image Classification Server:
+python classifier_api.py
 
 📜 License
 
