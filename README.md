@@ -39,7 +39,7 @@ FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Dee
 git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
 ```
-2. Database Setup:
+2. **Database Setup:**
 
 ```
 
@@ -49,21 +49,22 @@ Then update the database credentials in includes/config.php (if it exists).
 ```
 
 
-3. Install Dependencies:
+3. **Install Dependencies:**
 ```
 composer install
 pip install tensorflow numpy pillow flask
 ```
 
-4.Run AI Servers:
+4. **Run AI Servers:**
 Machine Learning Cyberbully Server:
 ```
 python classifier_api.py
 ```
 
-5.Deep Learning Image Classification Server:
+5. **Deep Learning Image Classification Server:**
 ```
 python classifier_api.py
 ```
+
 
 
