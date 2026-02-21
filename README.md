@@ -39,7 +39,7 @@ FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Dee
 git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
 
-## *Database Setup
+```bash
 2. **Database Setup:**
 Start XAMPP and import the ecommerce.sql file into phpMyAdmin.
 Update database credentials in includes/config.php (if exists).
