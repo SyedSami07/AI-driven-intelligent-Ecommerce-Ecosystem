@@ -1,44 +1,61 @@
+# 🍎 FRUID: AI-driven Intelligent E-commerce Ecosystem
 
+FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Deep Learning. It combines a typical shopping experience with Artificial Intelligence, Image Classification, Cyberbullying Detection, and Real-time Logistics.
 
-🎥 [Demo Video](আপনার_লিংক_এখানে)
-📊 [Presentation Slide](আপনার_লিংক_এখানে)
-🗂️ [Dataset](আপনার_লিংক_এখানে)
+## Features
 
-# 🍎 FRUID: Smart E-Commerce with AI & ML
-
-Smart FruitCart (FRUID) হলো একটি আধুনিক ই-কমার্স প্ল্যাটফর্ম যা PHP এবং Deep Learning-এর সমন্বয়ে তৈরি। এতে সাধারণ কেনাকাটার অভিজ্ঞতার সাথে **Artificial Intelligence**, **Cyberbullying Detection**, এবং **Real-time Logistics**-এর সমন্বয় ঘটানো হয়েছে।
-
-## 🚀 Features
-
-- **🧠 AI Image Search:** ছবি আপলোড করে স্টোর থেকে সরাসরি পণ্য খুঁজে বের করার সুবিধা।
-- **🚫 Cyberbullying Detection:** কমেন্ট বা রিভিউ সেকশনে ক্ষতিকর টেক্সট শনাক্তকরণ (Cyberbully_ML)।
-- **🚛 Live Tracking:** গ্রাহকের কাছে অর্ডারের বর্তমান অবস্থান দেখানোর ব্যবস্থা।
-- **🥤 Smoothie Builder:** কাস্টম ফল নির্বাচন করে স্মুদি অর্ডার করার অনন্য ফিচার।
-- **🔐 User Management:** ইমেইল ভেরিফিকেশন এবং পাসওয়ার্ড রিকভারিসহ সুরক্ষিত মেম্বারশিপ সিস্টেম।
+- ** AI Image Search:** Upload an image to directly find products in the store.
+- ** AI Image Classification:** Admin uploads an image to directly identify unknown fruits or vegetables.
+- ** Cyberbullying Detection:** Detect harmful text in chat system and in the comments or review sections (Cyberbully_ML).
+- ** Smoothie Builder:** This is an interactive product feature that lets customers
+easily customize products and it gives a smoothie recipe suggestion.
+- ** AI Nutrition Insight Planner:** This feature asks for user info and gives an AI-generated
+nutrition plan with product recommendations.
+- ** User Management:** Secure membership system with email verification and password recovery.
 
 ## 📁 Project Structure
 
 📂 FRUID  
-├── 📁 admin (অ্যাডমিন ড্যাশবোর্ড এবং ভিউ ফাইল)  
-├── 📁 assets (CSS, JS, এবং ইমেজেস)  
-├── 📁 Cyberbully_ML (সাইবার বুলিং শনাক্তকরণ মডিউল)  
-├── 📁 fruit and vegetables img classification (AI মডেল ট্রেনিং ফাইলসমূহ)  
-├── 📁 vendor (Composer ডিপেন্ডেন্সি)  
-├── 📄 ai_bridge.php (PHP ও Python AI কানেকশন)  
-├── 📄 smoothie_builder.php (কাস্টম স্মুদি লজিক)  
-├── 📄 ecommerce.sql (ডাটাবেস ফাইল)  
-└── 📄 index.php (ইউজার ল্যান্ডিং পেজ)
+├── 📁 admin (Admin dashboard and view files)  
+├── 📁 assets (CSS, JS, and images)  
+├── 📁 Cyberbully_ML (Machine learning Cyberbullying detection module)  
+├── 📁 fruit and vegetables img classification (Deep Learing Image classification module)  
+├── 📁 vendor (Composer dependencies)  
+├── 📄 ai_bridge.php (PHP and Python AI connection)  
+├── 📄 smoothie_builder.php (Custom smoothie logic)  
+├── 📄 ecommerce.sql (Database file)  
+└── 📄 index.php (User landing page)
 
 ## 🧠 Model Details
 
-- **Object Detection:** Convolutional Neural Networks (CNN)
-- **NLP Model:** Sentiment Analysis for Cyberbully Detection
-- **Framework:** TensorFlow, Keras & Python
+- **Object Detection:** Convolutional Neural Networks (CNN)  
+- **NLP Model:** Sentiment Analysis for Cyberbullying Detection  
+- **Framework:** TensorFlow, Keras & Python  
 - **Backend:** PHP (OOP)
 
 ## 🖥️ How to Run
 
-1. **Clone the repo:**
+1. **Clone the repository:**
 ```bash
-git clone [https://github.com/SyedSami07/FRUID.git](https://github.com/SyedSami07/FRUID.git)
+git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
+
+2. Database Setup:
+
+Start XAMPP and import the ecommerce.sql file into phpMyAdmin.
+
+Update database credentials in includes/config.php (if exists).
+
+3. Install Dependencies:
+composer install
+pip install tensorflow numpy pillow flask
+
+4. Run AI Server:
+
+Ensure ai_bridge.php works by starting your Python API server.
+
+📜 License
+
+This project is open-source and available under the MIT License.
+
+If you want, I can also rewrite the **Features** section with fully descriptive, professional English phrases instead of literal translations to make it look more polished for GitHub. Do you want me to do that?
