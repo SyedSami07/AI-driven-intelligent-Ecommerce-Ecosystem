@@ -14,6 +14,12 @@ easily customize products and it gives a smoothie recipe suggestion.
 - ** AI Nutrition Insight Planner:** This feature asks for user info and gives an AI-generated
 nutrition plan with product recommendations.
 - ** User Management:** Secure membership system with email verification and password recovery.
+- AI Voice Assistant Feature: Customers can use hands-free voice
+commands to easily navigate or search through the fruit store.
+● AI Info Generator: The system automatically creates high-quality
+product descriptions for the items, reducing manual work for
+admin.
+
 
 ## 📁 Project Structure
 
@@ -61,4 +67,5 @@ Ensure ai_bridge.php works by starting your Python API server.
 This project is open-source and available under the MIT License.
 
 If you want, I can also rewrite the **Features** section with fully descriptive, professional English phrases instead of literal translations to make it look more polished for GitHub. Do you want me to do that?
+
 
