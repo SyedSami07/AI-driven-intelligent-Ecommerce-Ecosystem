@@ -6,17 +6,17 @@ automation. This makes managing the store easier and makes shopping better for e
 
 ## Features
 
-- ** AI Image Search:** Upload an image to directly find products in the store.
-- ** AI Image Classification:** Admin uploads an image to directly identify unknown fruits or vegetables.
-- ** Cyberbullying Detection:** Detect harmful text in chat system and in the comments or review sections (Cyberbully_ML).
-- ** Smoothie Builder:** This is an interactive product feature that lets customers
+- **AI Image Search:** Upload an image to directly find products in the store.
+- **AI Image Classification:** Admin uploads an image to directly identify unknown fruits or vegetables.
+- **Cyberbullying Detection:** Detect harmful text in chat system and in the comments or review sections (Cyberbully_ML).
+- **Smoothie Builder:** This is an interactive product feature that lets customers
 easily customize products and it gives a smoothie recipe suggestion.
-- ** AI Nutrition Insight Planner:** This feature asks for user info and gives an AI-generated
+- **AI Nutrition Insight Planner:** This feature asks for user info and gives an AI-generated
 nutrition plan with product recommendations.
-- ** User Management:** Secure membership system with email verification and password recovery.
-- AI Voice Assistant Feature: Customers can use hands-free voice
+- **User Management:** Secure membership system with email verification and password recovery.
+- **AI Voice Assistant Feature:** Customers can use hands-free voice
 commands to easily navigate or search through the fruit store.
-● AI Info Generator: The system automatically creates high-quality
+- **AI Info Generator:** The system automatically creates high-quality
 product descriptions for the items, reducing manual work for
 admin.
 
