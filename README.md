@@ -31,3 +31,10 @@ FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Dee
 - **NLP Model:** Sentiment Analysis for Cyberbullying Detection  
 - **Framework:** TensorFlow, Keras & Python  
 - **Backend:** PHP (OOP)
+
+## 🖥️ How to Run
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/SyedSami07/FRUID.git
+cd FRUID
