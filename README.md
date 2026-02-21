@@ -38,7 +38,7 @@ FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Dee
 ```bash
 git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
-
+```
 2. Database Setup:
 
 ```
@@ -59,4 +59,5 @@ python classifier_api.py
 
 5.Deep Learning Image Classification Server:
 python classifier_api.py
+
 
