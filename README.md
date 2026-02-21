@@ -39,5 +39,3 @@ FRUID is a modern e-commerce platform built using PHP, Machine Learning, and Dee
 git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
 
-
-## 🖥️ How to Run
