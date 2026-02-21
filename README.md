@@ -30,7 +30,6 @@ admin.
 ├── 📁 fruit and vegetables img classification (Deep Learning Image classification module)  
 ├── 📁 vendor (Composer dependencies)  
 ├── 📄 ai_bridge.php (PHP and Python AI connection)  
-├── 📄 smoothie_builder.php (Custom smoothie logic)  
 ├── 📄 ecommerce.sql (Database file)  
 └── 📄 index.php (User landing page)
 
@@ -67,6 +66,7 @@ Ensure ai_bridge.php works by starting your Python API server.
 This project is open-source and available under the MIT License.
 
 If you want, I can also rewrite the **Features** section with fully descriptive, professional English phrases instead of literal translations to make it look more polished for GitHub. Do you want me to do that?
+
 
 
 
