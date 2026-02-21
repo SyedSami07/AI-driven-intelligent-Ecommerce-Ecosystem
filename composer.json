@@ -1,0 +1,18 @@
+{
+    "name": "sami/fruid",
+    "description": "ecommerce",
+    "autoload": {
+        "psr-4": {
+            "Sami\\fruid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syedsami07",
+            "email": ""
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
