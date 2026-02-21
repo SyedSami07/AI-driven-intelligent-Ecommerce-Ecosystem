@@ -40,8 +40,14 @@ git clone https://github.com/SyedSami07/FRUID.git
 cd FRUID
 
 2. Database Setup:
+
+```
+
 Start XAMPP and import the ecommerce.sql file into phpMyAdmin.
 Then update the database credentials in includes/config.php (if it exists).
+
+```
+
 
 3. Install Dependencies:
 composer install
@@ -53,3 +59,4 @@ python classifier_api.py
 
 5.Deep Learning Image Classification Server:
 python classifier_api.py
+
